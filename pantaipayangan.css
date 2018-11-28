@@ -1,0 +1,201 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+
+}
+
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+
+    
+}
+
+.navbar a.active {
+    background-color: #ffffff;
+    color: white;
+}
+
+#tulisan{
+    margin-left: 700px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.destination{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-left: 30px;
+}
+
+.about{
+    margin-left: 30px;
+}
+
+.logo{
+    margin-left: 100px;
+    width: 150px;
+    position: absolute;
+    height: 100px;
+
+}
+.container{
+    margin-top: 25px;
+}
+
+.payangan{
+    width: 100%;
+}
+
+.airterjunn{
+    width: 100%;
+}
+hr{
+    margin-left: 10px;
+    width: 1300px;
+    margin-top: 30px;
+    border-color: #ff3333;
+}
+#namapantai{
+    position: absolute;
+    font-size: 60px;
+    font-family: "Swis721 Hv BT";
+    margin-left: 400px;
+    margin-top: -35px;
+}
+
+#namapantaii {
+    position: absolute;
+    color: dodgerblue;
+    font-size: 60px;
+    font-family: "Swis721 Hv BT";
+    position:absolute;
+    margin-top: -35px;
+    margin-left: 660px;
+}
+  
+#payangan2{
+    margin-top: -100px;
+    margin-left: 30px;
+}
+
+.paragraf1{
+    position: absolute;
+    margin-left: 40%;
+    margin-right: 5%;
+    margin-top: -60px;
+    font-size: 50px;
+    font-family: "Sitka Text"
+}
+
+.paragraf {
+    position: absolute;
+    margin-left: 40%;
+    margin-right: 5%;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: "Sitka Text"
+}
+
+.paragraf2 {
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 5%;
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: "Sitka Text"
+}
+
+.paragraf3 {
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 520px;
+    margin-top: 360px;
+    font-size: 20px;
+    font-family: "Sitka Text"
+}
+
+.paragraf4 {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 940px;
+    font-size: 50px;
+    font-family: "Sitka Text"
+}
+
+.paragraf5 {
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 550px;
+    margin-top: 760px;
+    font-size: 20px;
+    font-family: "Sitka Text"
+}
+
+#payangan3 {
+    margin-top: 290px;
+    margin-right: 100px;
+}
+
+.paragraf6 {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 130px;
+    font-size: 50px;
+    font-family: "Sitka Text"
+}
+
+
+.paragraf7 {
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 550px;
+    margin-top: 240px;
+    font-size: 20px;
+    font-family: "Sitka Text"
+}
+
+.paragraf8 {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 920px;
+    font-size: 50px;   
+    font-family: "Sitka Text"
+}
+
+.paragraf9 {
+     position: absolute;
+    margin-left: 40px;
+    margin-right: 550px;
+    margin-top: 1030px;
+    font-size: 20px;   
+    font-family: "Sitka Text"
+}
+
+.paragraf10{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 1180px;
+    font-size: 50px;    
+    font-family: "Sitka Text"
+}
+
+.paragraf11 {
+     position: absolute;
+    margin-left: 40px;
+    margin-right: 550px;
+    margin-top: 1290px;
+    font-size: 20px;      
+    font-family: "Sitka Text"
+}

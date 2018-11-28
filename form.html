@@ -1,0 +1,103 @@
+<html>
+<head>
+	<title>JALAN JALAN men</title>
+	<body bgcolor="white">
+	<script src='formjs.js'></script>
+</head>
+<style type="text/css">
+	input [type='button']:hover
+	{
+		background-color: green;
+	}
+</style>
+<body >
+<font face= "monotype corsiva"; style="margin-left: 36%; color: white;" size="10"><b>JALAN - JALAN men</b></font>
+<form style="margin: 0 5%; font-size: 20px; color: black" name='form' method='post' action='tutor.html'>
+
+<img src="logoo.png" class="logo">
+<hr>
+<pre>
+	<font face="Kristen ITC" style="color:white;">
+	<h3 >Isi Data Diri Anda Disini</h3></font>
+	<font face="Time News Roman"; style="color:white;">
+	Nama Lengkap	: <input type='text' name='nama'>
+	Alamat		        : <input type='text' name='alamat'>
+	Tempat Lahir	        : <input type='text' name='tempat'>
+	Tanggal Lahir	        : <input type='date' name='tanggal'>
+	No. Telepon	        : <input type='number' name='telfon'>
+ 	E-mail		        : <input type='text' name='email'>
+ 	<font face="Kristen ITC">
+ 	<h3>Inputkan Data Destinasi Baru</h3></font>
+ 	<font face=Time News Roman">
+	Nama Destinasi			: <input type='text' name='namadestinasi'>
+ 	Jenis Destinasi	        		: <select name='kategori'>
+ 					  <option>Pantai</option>
+ 					  <option>Air Terjun</option>
+ 					  <option>Bukit</option>
+ 					  </select>
+ 	Lokasi 		        		: <input type='text' name='lokasi'>
+ 	Jarak dari Pusat Kota		: <input type='text' name='jarak'>
+ 	Tiket		        		: <select name='harga'>
+ 				 	<option>Free</option>
+ 					<option>Rp.100 s/d Rp.10.000</option>
+ 					<option>Rp.10.000 s/d Rp.20.000</option>
+ 					<option>Rp.20.000 s/d Rp.30.000</option>
+ 					<option> Rp.30.000-ke atas</option>
+					</select>
+	Deskripsi 				: <input type='text' name='deskripsi'>
+</pre>
+	<input style="margin-left: 20%; margin-top: 20px;" type ='button' onClick='terimainput()' value='Submit'>
+	<input type ='reset' value='Reset'>
+</form>
+<img src="warna.jpeg" class="foto">
+
+	<table style="margin-top: 50px;margin-left: 0px; color: white;" border='3px white' id='tabelinputan'>
+		<tr>
+			<td>Nama Lengkap</td>
+			<td>Alamat</td>
+			<td>Tempat Lahir</td>
+			<td>Tanggal Lahir</td>
+			<td>No. Telepon</td>
+			<td>Alamat E-mail</td>
+			<td>Nama Destinasi</td>
+ 			<td>Jenis Destinasi</td>
+ 			<td>Lokasi</td>
+ 			<td>Jarak Tempuh</td>
+ 			<td>Tiket Masuk</td>
+ 			<td>Deskripsi Destinasi</td>
+ 		</tr>
+ 	</table>
+</font>
+</body>
+</html>
+
+<style>
+	body{
+		background-image:url(back.jpg);
+		background-size: cover;
+
+	}
+	.foto {
+		position: absolute;
+		opacity: 0.25;
+		margin-left: -480px;
+		margin-top: -370px;
+		width: 27%;
+		height: 55%; 
+	}
+
+	.logo{
+		position: absolute;
+		width:10%;
+		margin-top: -80px;
+
+	}
+
+hr{
+    margin-left: 0px;
+    width: 1300px;
+    margin-top: 30px;
+    border-color: #ff3333;
+    border-width: 2;
+}
+</style>

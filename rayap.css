@@ -1,0 +1,135 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+
+}
+
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+
+    
+}
+
+.navbar a.active {
+    background-color: #ffffff;
+    color: white;
+}
+
+#tulisan{
+    margin-left: 700px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.destination{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-left: 30px;
+}
+
+.about{
+    margin-left: 30px;
+}
+
+.logo{
+    margin-left: 100px;
+    width: 150px;
+    position: absolute;
+    height: 100px;
+
+}
+.container{
+    margin-top: 25px;
+}
+
+
+.airterjunn{
+    width: 100%;
+}
+
+.air {
+    font-family: Swis721 Hv BT;
+    margin-left: 40%;
+    position: relative;
+    font-size: 100%;
+}
+
+.rayap {
+    font-family: Swis721 Hv BT;
+    position: absolute;
+    margin-left: 52%;
+    margin-top: -85px;
+    color: #ABA921;
+    font-size: 130%;
+
+}
+
+.ra {
+    margin-left:5%;
+    width: 340px;
+    height: 220px;
+    
+}
+
+.paragraf{
+    position: absolute;
+    font-family: Sitka Text;
+    margin-left: 32%;
+    margin-top: -2px;
+    text-indent: 3%;
+    margin-right: 5%;
+    text-align: justify;
+    
+}
+
+.perjalanan{
+    font-family: Sitka Text;
+    margin-left: -340px;
+    font-weight: bold;
+    margin-top: 20%;
+    position: absolute;
+}
+
+.paragraf2{
+    font-family: Sitka Text;
+    text-align: justify;
+    margin-top: 6%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-indent: 3%;
+}
+
+.keindahan {
+    font-family: Sitka Text;
+    font-weight: bold;
+    margin-left: 5%;
+    font-size: 100%;
+
+}
+
+.paragraf3{
+    font-family: Sitka Text;
+    text-align: justify;
+    margin-left: 5%;
+    text-align: 3%;
+    margin-right: 5%;
+    text-indent: 3%;
+}
+hr{
+    margin-left: 10px;
+    width: 1300px;
+    margin-top: 30px;
+    border-color: #ff3333;
+}

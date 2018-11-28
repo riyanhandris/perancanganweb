@@ -1,0 +1,227 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+
+}
+
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+
+    
+}
+
+.navbar a.active {
+    background-color: #ffffff;
+    color: white;
+}
+
+#tulisan{
+    margin-left: 700px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.destination{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-left: 30px;
+}
+
+.about{
+    margin-left: 30px;
+}
+
+.logo{
+    margin-left: 100px;
+    width: 150px;
+    position: absolute;
+    height: 100px;
+
+}
+.container{
+    margin-top: 25px;
+}
+
+hr{
+    margin-left: 10px;
+    width: 1300px;
+    margin-top: 110px;
+    border-color: #ff3333;
+}
+
+#medsos{
+    margin-top: 10px;
+    position: absolute;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.nama{
+    margin-left: 290px;
+    margin-top: 10px;
+    position: relative;
+    font-weight: bold;
+}
+
+.wa {
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 200px;
+    width: 50px;
+    height: 50px;
+}
+
+.nama1{
+    margin-left: 290px;
+    margin-top: 120px;
+    position: relative;
+    font-weight: bold;
+}
+
+.twitter{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 200px;
+    width: 50px;
+    height: 50px;
+}
+
+.nama2{
+    margin-left: 290px;
+    margin-top: 40px;
+    position: relative;
+    font-weight: bold;
+}
+
+.instagram{
+    margin-top: -110px;
+    position: absolute;
+    margin-left: 900px;
+    width: 50px;
+    height: 50px;
+}
+
+.nama3{
+    margin-left: 290px;
+    margin-top: 60px;
+    position: relative;
+    font-weight: bold;
+}
+
+.warna {
+    opacity: 0.4;
+    width:500px;
+    height: 500px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: -50px;
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+
+}
+
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+
+    
+}
+
+.navbar a.active {
+    background-color: #ffffff;
+    color: white;
+}
+
+#tulisan{
+    margin-left: 700px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.destination{
+    margin-left: 30px;
+}
+
+.contact{
+    margin-left: 30px;
+}
+
+.about{
+    margin-left: 30px;
+}
+
+.logo{
+    margin-left: 100px;
+    width: 150px;
+    position: absolute;
+    height: 100px;
+
+}
+.container{
+    margin-top: 25px;
+}
+
+#j88 {
+    width: 300px;
+    height: 300px;
+
+}
+
+hr{
+    margin-left: 10px;
+    width: 1300px;
+    margin-top: 110px;
+    border-color: #ff3333;
+}
+
+.foto{
+    position: absolute;
+}
+
+.papuma{
+    width: 60px;
+    height: 40px;
+    margin-left: 100px;
+    position:relative;
+}
+
+.j88{
+    width: 50px;
+    height: 50px;
+    margin-left:500px;
+    position: relative;
+}
+
+.pu{
+    width: 50px;
+    height: 50px;
+    margin-left: 700px;
+    position: absolute;
+}
